@@ -18,3 +18,5 @@ var paidTuition = [true, false, false, true];
 paidTuition.push(false);
 
 console.log(paidTuition);
+
+// In coding, the first element to appear in an array is in "Index Position 0" and subsequent elements increase by 1 in position. In my SHIFT Method example, "Peter" is the second element in my array, but is in Index Position 1. Similarly, in my POP Method example, "27" is the first element in my array but is in Index Position 0. //
